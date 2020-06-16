@@ -1,0 +1,158 @@
+{
+  "models": [
+    {
+      "id": 24,
+      "name": "Tutorials",
+      "slug": "tutorials",
+      "priority": 15,
+      "descriptions": null,
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 3,
+      "name": "Algorithms",
+      "slug": "algorithms",
+      "priority": 14,
+      "descriptions": "The true test of problem solving: when one realizes that time and memory aren't infinite.\n",
+      "rewards_system_enabled": true
+    },
+    {
+      "id": 17,
+      "name": "Data Structures",
+      "slug": "data-structures",
+      "priority": 13,
+      "descriptions": "Data Structures help in elegant representation of data for algorithms",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 22,
+      "name": "Mathematics",
+      "slug": "mathematics",
+      "priority": 12,
+      "descriptions": "Without mathematics, there's nothing you can do. Everything around you is mathematics. Everything around you is numbers.",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 2,
+      "name": "Artificial Intelligence",
+      "slug": "ai",
+      "priority": 11,
+      "descriptions": "Develop intelligent agents. Challenges related to bot-building, path planning, search techniques and Game Theory. Exercise your creativity in heuristic design.\n",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 27,
+      "name": "C",
+      "slug": "c",
+      "priority": 11,
+      "descriptions": null,
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 13,
+      "name": "C++",
+      "slug": "cpp",
+      "priority": 10,
+      "descriptions": "A general-purpose programming language with imperative, object-oriented and generic programming features.",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 15,
+      "name": "Java",
+      "slug": "java",
+      "priority": 9,
+      "descriptions": "A strictly object-oriented language designed to write industry-standard code.",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 12,
+      "name": "Python",
+      "slug": "python",
+      "priority": 8,
+      "descriptions": "A step by step guide to Python, a language that is easy to pick up yet one of the most powerful.",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 14,
+      "name": "Ruby",
+      "slug": "ruby",
+      "priority": 7,
+      "descriptions": "Let's dive into Ruby",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 18,
+      "name": "SQL",
+      "slug": "sql",
+      "priority": 6,
+      "descriptions": "A special-purpose language designed for managing data held in a relational database.",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 16,
+      "name": "Databases",
+      "slug": "databases",
+      "priority": 5,
+      "descriptions": "Check your Database skills",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 21,
+      "name": "Distributed Systems",
+      "slug": "distributed-systems",
+      "priority": 4,
+      "descriptions": null,
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 6,
+      "name": "Linux Shell",
+      "slug": "shell",
+      "priority": 3,
+      "descriptions": "Bash and command-line tools can be very powerful. Test your Linux scripting skills.",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 5,
+      "name": "Functional Programming",
+      "slug": "fp",
+      "priority": 2,
+      "descriptions": "The art of programming with expressions and functions. Experience the challenge of programming without state. A good paradigm for those interested in Map-Reduce and parallel computing.",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 19,
+      "name": "Regex",
+      "slug": "regex",
+      "priority": 1,
+      "descriptions": "Explore the power of regular expressions",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 30,
+      "name": "React JS",
+      "slug": "reactjs",
+      "priority": 1,
+      "descriptions": "React (React.js or ReactJS) is an open-source JavaScript library for building user interfaces. ",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 20,
+      "name": "Security",
+      "slug": "security",
+      "priority": 0,
+      "descriptions": "Practice and study of secure communications",
+      "rewards_system_enabled": null
+    },
+    {
+      "id": 26,
+      "name": "General Programming",
+      "slug": "general-programming",
+      "priority": 0,
+      "descriptions": null,
+      "rewards_system_enabled": false
+    }
+  ],
+  "status": true,
+  "total": 19
+}
