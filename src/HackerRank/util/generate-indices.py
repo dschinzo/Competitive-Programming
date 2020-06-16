@@ -44,7 +44,7 @@ with open(os.path.dirname(__file__) + '/../challenges.json', 'r') as file_challe
              'The goal of this series is to keep the code as concise and efficient as possible. '
              'It might not be perfect due to the limitation of my ability and skill, so '
              'feel free to make suggestions if you spot something that can be improved.\n\n'
-             'Here is my hackerrank profile [logo.png](https://www.hackerrank.com/dschinzo).\n\n')
+             'Here is my [hackerrank profile](https://www.hackerrank.com/dschinzo).\n\n')
   fout.write('Index\n======\n\n')
   for track in json_root['tracks']:
     fout.write('* [%s](#%s) (%d/%d)\n' % (track['title'], anchor_from_title(track['title']), track['finish-count'], track['count']))
