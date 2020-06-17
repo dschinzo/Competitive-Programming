@@ -9,8 +9,8 @@ Index
 ======
 
 * [Algorithms](#algorithms) (51/442)
-* [Data Structures](#data-structures) (5/121)
-* [Mathematics](#mathematics) (0/283)
+* [Data Structures](#data-structures) (7/121)
+* [Mathematics](#mathematics) (6/283)
 * [Artificial Intelligence](#artificial-intelligence) (0/150)
 
 Algorithms
@@ -532,8 +532,8 @@ Algorithms
 Data Structures
 ------
 
-* [Arrays](#arrays) (5/6)
-* [Linked Lists](#linked-lists) (0/15)
+* [Arrays](#arrays) (6/6)
+* [Linked Lists](#linked-lists) (1/15)
 * [Trees](#trees) (0/17)
 * [Balanced Trees](#balanced-trees) (0/3)
 * [Stacks](#stacks) (0/9)
@@ -552,12 +552,12 @@ Data Structures
 3 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | [Solution & Comment](solution/practice/data-structures/arrays/dynamic-array/solution.py)
 4 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [Solution & Comment](solution/practice/data-structures/arrays/array-left-rotation/solution.py)
 5 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays) | [Solution & Comment](solution/practice/data-structures/arrays/sparse-arrays/solution.py)
-6 | [Array Manipulation](https://www.hackerrank.com/challenges/crush) | WIP
+6 | [Array Manipulation](https://www.hackerrank.com/challenges/crush) | [Solution & Comment](solution/practice/data-structures/arrays/crush/solution.py)
 
 ### Linked Lists
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | WIP
+1 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | [Solution & Comment](solution/practice/data-structures/linked-lists/print-the-elements-of-a-linked-list/solution.py)
 2 | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) | WIP
 3 | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) | WIP
 4 | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) | WIP
@@ -713,11 +713,11 @@ Mathematics
 ------
 
 * [Fundamentals](#fundamentals) (0/32)
-* [Number Theory](#number-theory) (0/76)
+* [Number Theory](#number-theory) (1/76)
 * [Combinatorics](#combinatorics) (0/57)
-* [Algebra](#algebra) (0/43)
-* [Geometry](#geometry) (0/30)
-* [Probability](#probability) (0/28)
+* [Algebra](#algebra) (1/43)
+* [Geometry](#geometry) (3/30)
+* [Probability](#probability) (1/28)
 * [Linear Algebra Foundations](#linear-algebra-foundations) (0/17)
 
 ### Fundamentals
@@ -760,7 +760,7 @@ Mathematics
 \# | Challenge | Solution
 :---:|:---:|:---:
 1 | [Constructing a Number](https://www.hackerrank.com/challenges/constructing-a-number) | WIP
-2 | [Closest Number](https://www.hackerrank.com/challenges/closest-number) | WIP
+2 | [Closest Number](https://www.hackerrank.com/challenges/closest-number) | [Solution & Comment](solution/practice/mathematics/number-theory/closest-number/solution.py)
 3 | [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd) | WIP
 4 | [Primitive Problem](https://www.hackerrank.com/challenges/primitive-problem) | WIP
 5 | [Identify Smith Numbers](https://www.hackerrank.com/challenges/identify-smith-numbers) | WIP
@@ -900,7 +900,7 @@ Mathematics
 ### Algebra
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Combo Meal](https://www.hackerrank.com/challenges/combo-meal) | WIP
+1 | [Combo Meal](https://www.hackerrank.com/challenges/combo-meal) | [Solution & Comment](solution/practice/mathematics/algebra/combo-meal/solution.py)
 2 | [Stepping Stones Game](https://www.hackerrank.com/challenges/stepping-stones-game) | WIP
 3 | [Shashank and List](https://www.hackerrank.com/challenges/shashank-and-list) | WIP
 4 | [Triangle Numbers](https://www.hackerrank.com/challenges/triangle-numbers) | WIP
@@ -947,11 +947,11 @@ Mathematics
 ### Geometry
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Points On a Line](https://www.hackerrank.com/challenges/points-on-a-line) | WIP
-2 | [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game) | WIP
+1 | [Points On a Line](https://www.hackerrank.com/challenges/points-on-a-line) | [Solution & Comment](solution/practice/mathematics/geometry/points-on-a-line/solution.py)
+2 | [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game) | [Solution & Comment](solution/practice/mathematics/geometry/rectangular-game/solution.py)
 3 | [Sherlock and Counting](https://www.hackerrank.com/challenges/sherlock-and-counting) | WIP
 4 | [Sherlock and Planes](https://www.hackerrank.com/challenges/sherlock-and-planes) | WIP
-5 | [Circle City](https://www.hackerrank.com/challenges/circle-city) | WIP
+5 | [Circle City](https://www.hackerrank.com/challenges/circle-city) | [Solution & Comment](solution/practice/mathematics/geometry/circle-city/solution.py)
 6 | [Xrange's Pancakes](https://www.hackerrank.com/challenges/xrange-and-pizza) | WIP
 7 | [Spheres](https://www.hackerrank.com/challenges/spheres) | WIP
 8 | [Baby Step, Giant Step](https://www.hackerrank.com/challenges/baby-step-giant-step) | WIP
@@ -981,7 +981,7 @@ Mathematics
 ### Probability
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Random number generator](https://www.hackerrank.com/challenges/random-number-generator) | WIP
+1 | [Random number generator](https://www.hackerrank.com/challenges/random-number-generator) | [Solution & Comment](solution/practice/mathematics/probability/random-number-generator/solution.py)
 2 | [Sherlock and Probability](https://www.hackerrank.com/challenges/sherlock-and-probability) | WIP
 3 | [Day 4: Normal Distribution #1](https://www.hackerrank.com/challenges/normal-distribution-1) | WIP
 4 | [Day 4: Normal Distribution #2](https://www.hackerrank.com/challenges/normal-distribution-2) | WIP
