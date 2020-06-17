@@ -8,8 +8,8 @@ Here is my [hackerrank profile](https://www.hackerrank.com/dschinzo).
 Index
 ======
 
-* [Algorithms](#algorithms) (41/442)
-* [Data Structures](#data-structures) (0/121)
+* [Algorithms](#algorithms) (51/442)
+* [Data Structures](#data-structures) (5/121)
 * [Mathematics](#mathematics) (0/283)
 * [Artificial Intelligence](#artificial-intelligence) (0/150)
 
@@ -18,15 +18,15 @@ Algorithms
 
 * [Warmup](#warmup) (10/10)
 * [Implementation](#implementation) (31/66)
-* [Strings](#strings) (0/48)
-* [Sorting](#sorting) (0/15)
-* [Search](#search) (0/26)
+* [Strings](#strings) (5/48)
+* [Sorting](#sorting) (2/15)
+* [Search](#search) (2/26)
 * [Graph Theory](#graph-theory) (0/64)
 * [Greedy](#greedy) (0/24)
 * [Dynamic Programming](#dynamic-programming) (0/99)
 * [Constructive Algorithms](#constructive-algorithms) (0/11)
 * [Bit Manipulation](#bit-manipulation) (0/27)
-* [Recursion](#recursion) (0/11)
+* [Recursion](#recursion) (1/11)
 * [Game Theory](#game-theory) (0/32)
 * [NP Complete](#np-complete) (0/4)
 * [Debugging](#debugging) (0/5)
@@ -119,13 +119,13 @@ Algorithms
 \# | Challenge | Solution
 :---:|:---:|:---:
 1 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | WIP
-2 | [CamelCase](https://www.hackerrank.com/challenges/camelcase) | WIP
-3 | [Strong Password](https://www.hackerrank.com/challenges/strong-password) | WIP
+2 | [CamelCase](https://www.hackerrank.com/challenges/camelcase) | [Solution & Comment](solution/practice/algorithms/strings/camelcase/solution.py)
+3 | [Strong Password](https://www.hackerrank.com/challenges/strong-password) | [Solution & Comment](solution/practice/algorithms/strings/strong-password/solution.py)
 4 | [Two Characters](https://www.hackerrank.com/challenges/two-characters) | WIP
 5 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) | WIP
 6 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | WIP
 7 | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | WIP
-8 | [Pangrams](https://www.hackerrank.com/challenges/pangrams) | WIP
+8 | [Pangrams](https://www.hackerrank.com/challenges/pangrams) | [Solution & Comment](solution/practice/algorithms/strings/pangrams/solution.py)
 9 | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | WIP
 10 | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | WIP
 11 | [Funny String](https://www.hackerrank.com/challenges/funny-string) | WIP
@@ -138,8 +138,8 @@ Algorithms
 18 | [Anagram](https://www.hackerrank.com/challenges/anagram) | WIP
 19 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | WIP
 20 | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | WIP
-21 | [Two Strings](https://www.hackerrank.com/challenges/two-strings) | WIP
-22 | [String Construction ](https://www.hackerrank.com/challenges/string-construction) | WIP
+21 | [Two Strings](https://www.hackerrank.com/challenges/two-strings) | [Solution & Comment](solution/practice/algorithms/strings/two-strings/solution.py)
+22 | [String Construction ](https://www.hackerrank.com/challenges/string-construction) | [Solution & Comment](solution/practice/algorithms/strings/string-construction/solution.py)
 23 | [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | WIP
 24 | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich) | WIP
 25 | [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes) | WIP
@@ -170,7 +170,7 @@ Algorithms
 ### Sorting
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | WIP
+1 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | [Solution & Comment](solution/practice/algorithms/arrays-and-sorting/big-sorting/solution.py)
 2 | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) | WIP
 3 | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | WIP
 4 | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) | WIP
@@ -184,14 +184,14 @@ Algorithms
 12 | [Find the Median](https://www.hackerrank.com/challenges/find-the-median) | WIP
 13 | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort) | WIP
 14 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications) | WIP
-15 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework) | WIP
+15 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework) | [Solution & Comment](solution/practice/algorithms/arrays-and-sorting/lilys-homework/solution.py)
 
 ### Search
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters) | WIP
+1 | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters) | [Solution & Comment](solution/practice/algorithms/search/hackerland-radio-transmitters/solution.py)
 2 | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro) | WIP
-3 | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | WIP
+3 | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | [Solution & Comment](solution/practice/algorithms/search/icecream-parlor/solution.py)
 4 | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard) | WIP
 5 | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss) | WIP
 6 | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers) | WIP
@@ -466,7 +466,7 @@ Algorithms
 :---:|:---:|:---:
 1 | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum) | WIP
 2 | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle) | WIP
-3 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum) | WIP
+3 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum) | [Solution & Comment](solution/practice/algorithms/recursion/recursive-digit-sum/solution.py)
 4 | [Simplified Chess Engine](https://www.hackerrank.com/challenges/simplified-chess-engine) | WIP
 5 | [Password Cracker](https://www.hackerrank.com/challenges/password-cracker) | WIP
 6 | [Arithmetic Expressions](https://www.hackerrank.com/challenges/arithmetic-expressions) | WIP
@@ -532,7 +532,7 @@ Algorithms
 Data Structures
 ------
 
-* [Arrays](#arrays) (0/6)
+* [Arrays](#arrays) (5/6)
 * [Linked Lists](#linked-lists) (0/15)
 * [Trees](#trees) (0/17)
 * [Balanced Trees](#balanced-trees) (0/3)
@@ -547,11 +547,11 @@ Data Structures
 ### Arrays
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | WIP
-2 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | WIP
-3 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | WIP
-4 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | WIP
-5 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays) | WIP
+1 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | [Solution & Comment](solution/practice/data-structures/arrays/arrays-ds/solution.py)
+2 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | [Solution & Comment](solution/practice/data-structures/arrays/2d-array/solution.py)
+3 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | [Solution & Comment](solution/practice/data-structures/arrays/dynamic-array/solution.py)
+4 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [Solution & Comment](solution/practice/data-structures/arrays/array-left-rotation/solution.py)
+5 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays) | [Solution & Comment](solution/practice/data-structures/arrays/sparse-arrays/solution.py)
 6 | [Array Manipulation](https://www.hackerrank.com/challenges/crush) | WIP
 
 ### Linked Lists
