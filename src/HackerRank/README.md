@@ -8,7 +8,7 @@ Here is my [hackerrank profile](https://www.hackerrank.com/dschinzo).
 Index
 ======
 
-* [Algorithms](#algorithms) (5/442)
+* [Algorithms](#algorithms) (10/442)
 * [Data Structures](#data-structures) (0/121)
 * [Mathematics](#mathematics) (0/283)
 * [Artificial Intelligence](#artificial-intelligence) (0/150)
@@ -16,7 +16,7 @@ Index
 Algorithms
 ------
 
-* [Warmup](#warmup) (5/10)
+* [Warmup](#warmup) (10/10)
 * [Implementation](#implementation) (0/66)
 * [Strings](#strings) (0/48)
 * [Sorting](#sorting) (0/15)
@@ -35,15 +35,15 @@ Algorithms
 \# | Challenge | Solution
 :---:|:---:|:---:
 1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solution & Comment](solution/practice/algorithms/warmup/solve-me-first/solution.py)
-2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | WIP
+2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Solution & Comment](solution/practice/algorithms/warmup/simple-array-sum/solution.py)
 3 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [Solution & Comment](solution/practice/algorithms/warmup/compare-the-triplets/solution.py)
 4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [Solution & Comment](solution/practice/algorithms/warmup/a-very-big-sum/solution.py)
 5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | [Solution & Comment](solution/practice/algorithms/warmup/diagonal-difference/solution.py)
-6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | WIP
-7 | [Staircase](https://www.hackerrank.com/challenges/staircase) | WIP
-8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | WIP
+6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Solution & Comment](solution/practice/algorithms/warmup/plus-minus/solution.py)
+7 | [Staircase](https://www.hackerrank.com/challenges/staircase) | [Solution & Comment](solution/practice/algorithms/warmup/staircase/solution.py)
+8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [Solution & Comment](solution/practice/algorithms/warmup/mini-max-sum/solution.py)
 9 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | [Solution & Comment](solution/practice/algorithms/warmup/birthday-cake-candles/solution.py)
-10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | WIP
+10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [Solution & Comment](solution/practice/algorithms/warmup/time-conversion/solution.py)
 
 ### Implementation
 \# | Challenge | Solution
