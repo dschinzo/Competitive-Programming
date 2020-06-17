@@ -10,7 +10,7 @@ Index
 
 * [Algorithms](#algorithms) (51/442)
 * [Data Structures](#data-structures) (7/121)
-* [Mathematics](#mathematics) (8/283)
+* [Mathematics](#mathematics) (21/283)
 * [Artificial Intelligence](#artificial-intelligence) (0/150)
 
 Algorithms
@@ -718,7 +718,7 @@ Mathematics
 * [Algebra](#algebra) (1/43)
 * [Geometry](#geometry) (3/30)
 * [Probability](#probability) (1/28)
-* [Linear Algebra Foundations](#linear-algebra-foundations) (2/17)
+* [Linear Algebra Foundations](#linear-algebra-foundations) (15/17)
 
 ### Fundamentals
 \# | Challenge | Solution
@@ -1015,21 +1015,21 @@ Mathematics
 :---:|:---:|:---:
 1 | [Linear Algebra Foundations #1 - Matrix Addition](https://www.hackerrank.com/challenges/linear-algebra-foundations-1) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-foundations-1/solution.py)
 2 | [Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-foundations-1-matrix-subtraction/solution.py)
-3 | [Linear Algebra Foundations #3- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication) | WIP
-4 | [Linear Algebra Foundations #4- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication) | WIP
-5 | [Linear Algebra Foundations #5 - The 100th Power of a Matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix) | WIP
-6 | [Linear Algebra Foundations #6 - An Equation involving Matrices](https://www.hackerrank.com/challenges/linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix) | WIP
-7 | [Linear Algebra Foundations #7 - The 1000th Power of a Matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-7-the-1000th-power-of-a-matrix) | WIP
+3 | [Linear Algebra Foundations #3- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-foundations-3-matrix-multiplication/solution.py)
+4 | [Linear Algebra Foundations #4- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-foundations-4-matrix-multiplication/solution.py)
+5 | [Linear Algebra Foundations #5 - The 100th Power of a Matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-foundations-5-the-100th-power-of-a-matrix/solution.py)
+6 | [Linear Algebra Foundations #6 - An Equation involving Matrices](https://www.hackerrank.com/challenges/linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix/solution.py)
+7 | [Linear Algebra Foundations #7 - The 1000th Power of a Matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-7-the-1000th-power-of-a-matrix) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-foundations-7-the-1000th-power-of-a-matrix/solution.py)
 8 | [Linear Algebra Foundations #8 - Systems of Equations](https://www.hackerrank.com/challenges/linear-algebra-fundamentals-8-systems-of-equations) | WIP
-9 | [Linear Algebra Foundations #9 - Eigenvalues](https://www.hackerrank.com/challenges/linear-algebra-fundamentals-9-eigenvalues) | WIP
-10 | [Linear Algebra Foundations #10 - Eigenvectors](https://www.hackerrank.com/challenges/linear-algebra-fundamentals-10-eigenvectors) | WIP
-11 | [Determinant of the matrix #1](https://www.hackerrank.com/challenges/determinant-of-the-matrix-1) | WIP
-12 | [Determinant of the matrix #2](https://www.hackerrank.com/challenges/determinant-of-the-matrix-2) | WIP
-13 | [Determinant of the matrix #3](https://www.hackerrank.com/challenges/determinant-of-the-matrix-3) | WIP
+9 | [Linear Algebra Foundations #9 - Eigenvalues](https://www.hackerrank.com/challenges/linear-algebra-fundamentals-9-eigenvalues) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-fundamentals-9-eigenvalues/solution.py)
+10 | [Linear Algebra Foundations #10 - Eigenvectors](https://www.hackerrank.com/challenges/linear-algebra-fundamentals-10-eigenvectors) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-fundamentals-10-eigenvectors/solution.py)
+11 | [Determinant of the matrix #1](https://www.hackerrank.com/challenges/determinant-of-the-matrix-1) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/determinant-of-the-matrix-1/solution.py)
+12 | [Determinant of the matrix #2](https://www.hackerrank.com/challenges/determinant-of-the-matrix-2) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/determinant-of-the-matrix-2/solution.py)
+13 | [Determinant of the matrix #3](https://www.hackerrank.com/challenges/determinant-of-the-matrix-3) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/determinant-of-the-matrix-3/solution.py)
 14 | [Eigenvalue of a Matrix I](https://www.hackerrank.com/challenges/eigenvalue-of-matrix-1) | WIP
-15 | [Eigenvalue of matrix #2](https://www.hackerrank.com/challenges/eigenvalue-of-matrix-2) | WIP
-16 | [Eigenvalue of matrix #3](https://www.hackerrank.com/challenges/eigenvalues-of-matrix-3) | WIP
-17 | [Eigenvalue of matrix #4](https://www.hackerrank.com/challenges/eigenvalues-of-matrix-4) | WIP
+15 | [Eigenvalue of matrix #2](https://www.hackerrank.com/challenges/eigenvalue-of-matrix-2) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/eigenvalue-of-matrix-2/solution.py)
+16 | [Eigenvalue of matrix #3](https://www.hackerrank.com/challenges/eigenvalues-of-matrix-3) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/eigenvalues-of-matrix-3/solution.py)
+17 | [Eigenvalue of matrix #4](https://www.hackerrank.com/challenges/eigenvalues-of-matrix-4) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/eigenvalues-of-matrix-4/solution.py)
 
 Artificial Intelligence
 ------
