@@ -8,7 +8,7 @@ Here is my [hackerrank profile](https://www.hackerrank.com/dschinzo).
 Index
 ======
 
-* [Algorithms](#algorithms) (10/442)
+* [Algorithms](#algorithms) (41/442)
 * [Data Structures](#data-structures) (0/121)
 * [Mathematics](#mathematics) (0/283)
 * [Artificial Intelligence](#artificial-intelligence) (0/150)
@@ -17,7 +17,7 @@ Algorithms
 ------
 
 * [Warmup](#warmup) (10/10)
-* [Implementation](#implementation) (0/66)
+* [Implementation](#implementation) (31/66)
 * [Strings](#strings) (0/48)
 * [Sorting](#sorting) (0/15)
 * [Search](#search) (0/26)
@@ -48,46 +48,46 @@ Algorithms
 ### Implementation
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Grading Students](https://www.hackerrank.com/challenges/grading) | WIP
-2 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | WIP
-3 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | WIP
-4 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | WIP
-5 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | WIP
-6 | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | WIP
-7 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | WIP
-8 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | WIP
-9 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer) | WIP
-10 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | WIP
-11 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | WIP
-12 | [Drawing Book ](https://www.hackerrank.com/challenges/drawing-book) | WIP
-13 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) | WIP
-14 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | WIP
-15 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | WIP
+1 | [Grading Students](https://www.hackerrank.com/challenges/grading) | [Solution & Comment](solution/practice/algorithms/implementation/grading/solution.py)
+2 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | [Solution & Comment](solution/practice/algorithms/implementation/apple-and-orange/solution.py)
+3 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | [Solution & Comment](solution/practice/algorithms/implementation/kangaroo/solution.py)
+4 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | [Solution & Comment](solution/practice/algorithms/implementation/between-two-sets/solution.py)
+5 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | [Solution & Comment](solution/practice/algorithms/implementation/breaking-best-and-worst-records/solution.py)
+6 | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | [Solution & Comment](solution/practice/algorithms/implementation/the-birthday-bar/solution.py)
+7 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | [Solution & Comment](solution/practice/algorithms/implementation/divisible-sum-pairs/solution.py)
+8 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | [Solution & Comment](solution/practice/algorithms/implementation/migratory-birds/solution.py)
+9 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer) | [Solution & Comment](solution/practice/algorithms/implementation/day-of-the-programmer/solution.py)
+10 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | [Solution & Comment](solution/practice/algorithms/implementation/bon-appetit/solution.py)
+11 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | [Solution & Comment](solution/practice/algorithms/implementation/sock-merchant/solution.py)
+12 | [Drawing Book ](https://www.hackerrank.com/challenges/drawing-book) | [Solution & Comment](solution/practice/algorithms/implementation/drawing-book/solution.py)
+13 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) | [Solution & Comment](solution/practice/algorithms/implementation/counting-valleys/solution.py)
+14 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | [Solution & Comment](solution/practice/algorithms/implementation/electronics-shop/solution.py)
+15 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | [Solution & Comment](solution/practice/algorithms/implementation/cats-and-a-mouse/solution.py)
 16 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming) | WIP
-17 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | WIP
+17 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | [Solution & Comment](solution/practice/algorithms/implementation/picking-numbers/solution.py)
 18 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | WIP
-19 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | WIP
-20 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | WIP
-21 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | WIP
-22 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | WIP
-23 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | WIP
-24 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | WIP
+19 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution & Comment](solution/practice/algorithms/implementation/the-hurdle-race/solution.py)
+20 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution & Comment](solution/practice/algorithms/implementation/designer-pdf-viewer/solution.py)
+21 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | [Solution & Comment](solution/practice/algorithms/implementation/utopian-tree/solution.py)
+22 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | [Solution & Comment](solution/practice/algorithms/implementation/angry-professor/solution.py)
+23 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | [Solution & Comment](solution/practice/algorithms/implementation/beautiful-days-at-the-movies/solution.py)
+24 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | [Solution & Comment](solution/practice/algorithms/implementation/strange-advertising/solution.py)
 25 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner) | WIP
-26 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) | WIP
-27 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) | WIP
+26 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) | [Solution & Comment](solution/practice/algorithms/implementation/circular-array-rotation/solution.py)
+27 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) | [Solution & Comment](solution/practice/algorithms/implementation/permutation-equation/solution.py)
 28 | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | WIP
-29 | [Find Digits](https://www.hackerrank.com/challenges/find-digits) | WIP
-30 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | WIP
+29 | [Find Digits](https://www.hackerrank.com/challenges/find-digits) | [Solution & Comment](solution/practice/algorithms/implementation/find-digits/solution.py)
+30 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | [Solution & Comment](solution/practice/algorithms/implementation/extra-long-factorials/solution.py)
 31 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | WIP
 32 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) | WIP
 33 | [Library Fine](https://www.hackerrank.com/challenges/library-fine) | WIP
 34 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks) | WIP
 35 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | WIP
-36 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) | WIP
-37 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | WIP
+36 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) | [Solution & Comment](solution/practice/algorithms/implementation/repeated-string/solution.py)
+37 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | [Solution & Comment](solution/practice/algorithms/implementation/jumping-on-the-clouds/solution.py)
 38 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array) | WIP
 39 | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | WIP
-40 | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) | WIP
+40 | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) | [Solution & Comment](solution/practice/algorithms/implementation/acm-icpc-team/solution.py)
 41 | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) | WIP
 42 | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) | WIP
 43 | [Encryption](https://www.hackerrank.com/challenges/encryption) | WIP
@@ -96,7 +96,7 @@ Algorithms
 46 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) | WIP
 47 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) | WIP
 48 | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale) | WIP
-49 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) | WIP
+49 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) | [Solution & Comment](solution/practice/algorithms/implementation/the-time-in-words/solution.py)
 50 | [Chocolate Feast ](https://www.hackerrank.com/challenges/chocolate-feast) | WIP
 51 | [Service Lane](https://www.hackerrank.com/challenges/service-lane) | WIP
 52 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) | WIP
@@ -113,7 +113,7 @@ Algorithms
 63 | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | WIP
 64 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | WIP
 65 | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | WIP
-66 | [Matrix Layer Rotation ](https://www.hackerrank.com/challenges/matrix-rotation-algo) | WIP
+66 | [Matrix Layer Rotation ](https://www.hackerrank.com/challenges/matrix-rotation-algo) | [Solution & Comment](solution/practice/algorithms/implementation/matrix-rotation-algo/solution.py)
 
 ### Strings
 \# | Challenge | Solution
