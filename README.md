@@ -1,4 +1,4 @@
-# Algorithms-and-Data-structures-problems-and-solutions
+# Algorithms and Data-structures templates and solutions
 
 This repository includes the accepted coding challenge solutions of problems written by me on sites such as codechef, hackerrank, codeforces, leetcode. 
 
@@ -16,3 +16,4 @@ Hackerrank </a> </li>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width=25px height=25px"</img> 
 LeetCode </a> </li>
 </ul>
+
