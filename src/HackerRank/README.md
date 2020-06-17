@@ -10,7 +10,7 @@ Index
 
 * [Algorithms](#algorithms) (51/442)
 * [Data Structures](#data-structures) (7/121)
-* [Mathematics](#mathematics) (6/283)
+* [Mathematics](#mathematics) (8/283)
 * [Artificial Intelligence](#artificial-intelligence) (0/150)
 
 Algorithms
@@ -718,7 +718,7 @@ Mathematics
 * [Algebra](#algebra) (1/43)
 * [Geometry](#geometry) (3/30)
 * [Probability](#probability) (1/28)
-* [Linear Algebra Foundations](#linear-algebra-foundations) (0/17)
+* [Linear Algebra Foundations](#linear-algebra-foundations) (2/17)
 
 ### Fundamentals
 \# | Challenge | Solution
@@ -1013,8 +1013,8 @@ Mathematics
 ### Linear Algebra Foundations
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Linear Algebra Foundations #1 - Matrix Addition](https://www.hackerrank.com/challenges/linear-algebra-foundations-1) | WIP
-2 | [Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction) | WIP
+1 | [Linear Algebra Foundations #1 - Matrix Addition](https://www.hackerrank.com/challenges/linear-algebra-foundations-1) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-foundations-1/solution.py)
+2 | [Linear Algebra Foundations #2 - Matrix Subtraction](https://www.hackerrank.com/challenges/linear-algebra-foundations-1-matrix-subtraction) | [Solution & Comment](solution/practice/mathematics/linear-algebra-foundations/linear-algebra-foundations-1-matrix-subtraction/solution.py)
 3 | [Linear Algebra Foundations #3- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-3-matrix-multiplication) | WIP
 4 | [Linear Algebra Foundations #4- Matrix Multiplication](https://www.hackerrank.com/challenges/linear-algebra-foundations-4-matrix-multiplication) | WIP
 5 | [Linear Algebra Foundations #5 - The 100th Power of a Matrix](https://www.hackerrank.com/challenges/linear-algebra-foundations-5-the-100th-power-of-a-matrix) | WIP
