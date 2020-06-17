@@ -2,6 +2,13 @@
 
 This repository includes the accepted coding challenge solutions of problems written by me on sites such as codechef, hackerrank, codeforces, leetcode. 
 
+Index
+======
+
+* [Hackerrank](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/src/HackerRank)
+* [Codechef](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/src/Codechef)
+* [Leetcode](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/src/Leetcode)
+
 All these solutions written in python language.
 
 <h2>Here, My competitive programming profile pages</h2>
