@@ -10,7 +10,7 @@ Index
 
 * [Algorithms](#algorithms) (51/442)
 * [Data Structures](#data-structures) (7/121)
-* [Mathematics](#mathematics) (23/283)
+* [Mathematics](#mathematics) (39/283)
 * [Artificial Intelligence](#artificial-intelligence) (0/150)
 
 Algorithms
@@ -712,7 +712,7 @@ Data Structures
 Mathematics
 ------
 
-* [Fundamentals](#fundamentals) (0/32)
+* [Fundamentals](#fundamentals) (16/32)
 * [Number Theory](#number-theory) (1/76)
 * [Combinatorics](#combinatorics) (0/57)
 * [Algebra](#algebra) (1/43)
@@ -723,20 +723,20 @@ Mathematics
 ### Fundamentals
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Find the Point](https://www.hackerrank.com/challenges/find-point) | WIP
-2 | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | WIP
-3 | [Handshake](https://www.hackerrank.com/challenges/handshake) | WIP
-4 | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | WIP
-5 | [Army Game](https://www.hackerrank.com/challenges/game-with-cells) | WIP
-6 | [Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime) | WIP
-7 | [Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns) | WIP
-8 | [Cutting Paper Squares](https://www.hackerrank.com/challenges/p1-paper-cutting) | WIP
-9 | [Summing the N series ](https://www.hackerrank.com/challenges/summing-the-n-series) | WIP
-10 | [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles) | WIP
-11 | [Best Divisor](https://www.hackerrank.com/challenges/best-divisor) | WIP
-12 | [Restaurant](https://www.hackerrank.com/challenges/restaurant) | WIP
-13 | [Reverse Game](https://www.hackerrank.com/challenges/reverse-game) | WIP
-14 | [Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid) | WIP
+1 | [Find the Point](https://www.hackerrank.com/challenges/find-point) | [Solution & Comment](solution/practice/mathematics/fundamentals/find-point/solution.py)
+2 | [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws) | [Solution & Comment](solution/practice/mathematics/fundamentals/maximum-draws/solution.py)
+3 | [Handshake](https://www.hackerrank.com/challenges/handshake) | [Solution & Comment](solution/practice/mathematics/fundamentals/handshake/solution.py)
+4 | [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle) | [Solution & Comment](solution/practice/mathematics/fundamentals/lowest-triangle/solution.py)
+5 | [Army Game](https://www.hackerrank.com/challenges/game-with-cells) | [Solution & Comment](solution/practice/mathematics/fundamentals/game-with-cells/solution.py)
+6 | [Leonardo's Prime Factors](https://www.hackerrank.com/challenges/leonardo-and-prime) | [Solution & Comment](solution/practice/mathematics/fundamentals/leonardo-and-prime/solution.py)
+7 | [Connecting Towns](https://www.hackerrank.com/challenges/connecting-towns) | [Solution & Comment](solution/practice/mathematics/fundamentals/connecting-towns/solution.py)
+8 | [Cutting Paper Squares](https://www.hackerrank.com/challenges/p1-paper-cutting) | [Solution & Comment](solution/practice/mathematics/fundamentals/p1-paper-cutting/solution.py)
+9 | [Summing the N series ](https://www.hackerrank.com/challenges/summing-the-n-series) | [Solution & Comment](solution/practice/mathematics/fundamentals/summing-the-n-series/solution.py)
+10 | [Sherlock and Moving Tiles](https://www.hackerrank.com/challenges/sherlock-and-moving-tiles) | [Solution & Comment](solution/practice/mathematics/fundamentals/sherlock-and-moving-tiles/solution.py)
+11 | [Best Divisor](https://www.hackerrank.com/challenges/best-divisor) | [Solution & Comment](solution/practice/mathematics/fundamentals/best-divisor/solution.py)
+12 | [Restaurant](https://www.hackerrank.com/challenges/restaurant) | [Solution & Comment](solution/practice/mathematics/fundamentals/restaurant/solution.py)
+13 | [Reverse Game](https://www.hackerrank.com/challenges/reverse-game) | [Solution & Comment](solution/practice/mathematics/fundamentals/reverse-game/solution.py)
+14 | [Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid) | [Solution & Comment](solution/practice/mathematics/fundamentals/strange-grid/solution.py)
 15 | [Diwali Lights](https://www.hackerrank.com/challenges/diwali-lights) | WIP
 16 | [Sherlock and Divisors](https://www.hackerrank.com/challenges/sherlock-and-divisors) | WIP
 17 | [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations) | WIP
@@ -744,14 +744,14 @@ Mathematics
 19 | [Special Multiple](https://www.hackerrank.com/challenges/special-multiple) | WIP
 20 | [Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing) | WIP
 21 | [Die Hard 3](https://www.hackerrank.com/challenges/die-hard-3) | WIP
-22 | [Halloween party](https://www.hackerrank.com/challenges/halloween-party) | WIP
+22 | [Halloween party](https://www.hackerrank.com/challenges/halloween-party) | [Solution & Comment](solution/practice/mathematics/fundamentals/halloween-party/solution.py)
 23 | [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) | WIP
 24 | [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) | WIP
 25 | [K Candy Store](https://www.hackerrank.com/challenges/k-candy-store) | WIP
 26 | [Sumar and the Floating Rocks](https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks) | WIP
 27 | [Russian Peasant Exponentiation](https://www.hackerrank.com/challenges/russian-peasant-exponentiation) | WIP
 28 | [Bus Station](https://www.hackerrank.com/challenges/bus-station) | WIP
-29 | [Most Distant](https://www.hackerrank.com/challenges/most-distant) | WIP
+29 | [Most Distant](https://www.hackerrank.com/challenges/most-distant) | [Solution & Comment](solution/practice/mathematics/fundamentals/most-distant/solution.py)
 30 | [Jim and the Jokes](https://www.hackerrank.com/challenges/jim-and-the-jokes) | WIP
 31 | [Possible Path](https://www.hackerrank.com/challenges/possible-path) | WIP
 32 | [Mutual Recurrences](https://www.hackerrank.com/challenges/mutual-recurrences) | WIP
