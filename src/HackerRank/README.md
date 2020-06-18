@@ -10,7 +10,7 @@ Index
 
 * [Algorithms](#algorithms) (51/442)
 * [Data Structures](#data-structures) (7/121)
-* [Mathematics](#mathematics) (39/283)
+* [Mathematics](#mathematics) (40/283)
 * [Artificial Intelligence](#artificial-intelligence) (0/150)
 
 Algorithms
@@ -712,7 +712,7 @@ Data Structures
 Mathematics
 ------
 
-* [Fundamentals](#fundamentals) (16/32)
+* [Fundamentals](#fundamentals) (17/32)
 * [Number Theory](#number-theory) (1/76)
 * [Combinatorics](#combinatorics) (0/57)
 * [Algebra](#algebra) (1/43)
@@ -752,7 +752,7 @@ Mathematics
 27 | [Russian Peasant Exponentiation](https://www.hackerrank.com/challenges/russian-peasant-exponentiation) | WIP
 28 | [Bus Station](https://www.hackerrank.com/challenges/bus-station) | WIP
 29 | [Most Distant](https://www.hackerrank.com/challenges/most-distant) | [Solution & Comment](solution/practice/mathematics/fundamentals/most-distant/solution.py)
-30 | [Jim and the Jokes](https://www.hackerrank.com/challenges/jim-and-the-jokes) | WIP
+30 | [Jim and the Jokes](https://www.hackerrank.com/challenges/jim-and-the-jokes) | [Solution & Comment](solution/practice/mathematics/fundamentals/jim-and-the-jokes/solution.py)
 31 | [Possible Path](https://www.hackerrank.com/challenges/possible-path) | WIP
 32 | [Mutual Recurrences](https://www.hackerrank.com/challenges/mutual-recurrences) | WIP
 
