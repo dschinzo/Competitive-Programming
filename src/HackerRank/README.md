@@ -11,7 +11,7 @@ Index
 * [Algorithms](#algorithms) (51/442)
 * [Data Structures](#data-structures) (7/121)
 * [Mathematics](#mathematics) (40/283)
-* [Artificial Intelligence](#artificial-intelligence) (0/150)
+* [Artificial Intelligence](#artificial-intelligence) (2/150)
 
 Algorithms
 ------
@@ -1034,7 +1034,7 @@ Mathematics
 Artificial Intelligence
 ------
 
-* [Bot Building](#bot-building) (0/11)
+* [Bot Building](#bot-building) (2/11)
 * [A* Search](#a*-search) (0/5)
 * [Alpha Beta Pruning](#alpha-beta-pruning) (0/10)
 * [Combinatorial Search](#combinatorial-search) (0/14)
@@ -1047,8 +1047,8 @@ Artificial Intelligence
 ### Bot Building
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Bot saves princess](https://www.hackerrank.com/challenges/saveprincess) | WIP
-2 | [Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | WIP
+1 | [Bot saves princess](https://www.hackerrank.com/challenges/saveprincess) | [Solution & Comment](solution/practice/ai/ai-introduction/saveprincess/solution.py)
+2 | [Bot saves princess - 2](https://www.hackerrank.com/challenges/saveprincess2) | [Solution & Comment](solution/practice/ai/ai-introduction/saveprincess2/solution.py)
 3 | [BotClean](https://www.hackerrank.com/challenges/botclean) | WIP
 4 | [BotClean Stochastic](https://www.hackerrank.com/challenges/botcleanr) | WIP
 5 | [BotClean Large](https://www.hackerrank.com/challenges/botcleanlarge) | WIP
