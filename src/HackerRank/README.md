@@ -10,7 +10,7 @@ Index
 
 * [Algorithms](#algorithms) (51/442)
 * [Data Structures](#data-structures) (7/121)
-* [Mathematics](#mathematics) (40/283)
+* [Mathematics](#mathematics) (44/283)
 * [Artificial Intelligence](#artificial-intelligence) (2/150)
 
 Algorithms
@@ -712,7 +712,7 @@ Data Structures
 Mathematics
 ------
 
-* [Fundamentals](#fundamentals) (17/32)
+* [Fundamentals](#fundamentals) (21/32)
 * [Number Theory](#number-theory) (1/76)
 * [Combinatorics](#combinatorics) (0/57)
 * [Algebra](#algebra) (1/43)
@@ -737,15 +737,15 @@ Mathematics
 12 | [Restaurant](https://www.hackerrank.com/challenges/restaurant) | [Solution & Comment](solution/practice/mathematics/fundamentals/restaurant/solution.py)
 13 | [Reverse Game](https://www.hackerrank.com/challenges/reverse-game) | [Solution & Comment](solution/practice/mathematics/fundamentals/reverse-game/solution.py)
 14 | [Strange Grid Again](https://www.hackerrank.com/challenges/strange-grid) | [Solution & Comment](solution/practice/mathematics/fundamentals/strange-grid/solution.py)
-15 | [Diwali Lights](https://www.hackerrank.com/challenges/diwali-lights) | WIP
-16 | [Sherlock and Divisors](https://www.hackerrank.com/challenges/sherlock-and-divisors) | WIP
+15 | [Diwali Lights](https://www.hackerrank.com/challenges/diwali-lights) | [Solution & Comment](solution/practice/mathematics/fundamentals/diwali-lights/solution.py)
+16 | [Sherlock and Divisors](https://www.hackerrank.com/challenges/sherlock-and-divisors) | [Solution & Comment](solution/practice/mathematics/fundamentals/sherlock-and-divisors/solution.py)
 17 | [Sherlock and Permutations](https://www.hackerrank.com/challenges/sherlock-and-permutations) | WIP
-18 | [Even Odd Query](https://www.hackerrank.com/challenges/even-odd-query) | WIP
+18 | [Even Odd Query](https://www.hackerrank.com/challenges/even-odd-query) | [Solution & Comment](solution/practice/mathematics/fundamentals/even-odd-query/solution.py)
 19 | [Special Multiple](https://www.hackerrank.com/challenges/special-multiple) | WIP
 20 | [Matrix Tracing](https://www.hackerrank.com/challenges/matrix-tracing) | WIP
 21 | [Die Hard 3](https://www.hackerrank.com/challenges/die-hard-3) | WIP
 22 | [Halloween party](https://www.hackerrank.com/challenges/halloween-party) | [Solution & Comment](solution/practice/mathematics/fundamentals/halloween-party/solution.py)
-23 | [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) | WIP
+23 | [Filling Jars](https://www.hackerrank.com/challenges/filling-jars) | [Solution & Comment](solution/practice/mathematics/fundamentals/filling-jars/solution.py)
 24 | [Is Fibo](https://www.hackerrank.com/challenges/is-fibo) | WIP
 25 | [K Candy Store](https://www.hackerrank.com/challenges/k-candy-store) | WIP
 26 | [Sumar and the Floating Rocks](https://www.hackerrank.com/challenges/harry-potter-and-the-floating-rocks) | WIP
