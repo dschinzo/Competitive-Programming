@@ -1,6 +1,6 @@
 # Algorithms and Data-structures templates and solutions
 
-This repository includes the accepted coding challenge solutions of problems written by Chinzorigt.G on sites such as codechef, hackerrank, leetcode. 
+This repository includes the accepted solutions of coding challenge problems written by Chinzorigt.G on sites such as codechef, hackerrank, leetcode. 
 
 Index
 ======
