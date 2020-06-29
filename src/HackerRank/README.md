@@ -10,7 +10,7 @@ Index
 
 * [Algorithms](#algorithms) (51/442)
 * [Data Structures](#data-structures) (7/121)
-* [Mathematics](#mathematics) (44/283)
+* [Mathematics](#mathematics) (45/283)
 * [Artificial Intelligence](#artificial-intelligence) (2/150)
 
 Algorithms
@@ -713,7 +713,7 @@ Mathematics
 ------
 
 * [Fundamentals](#fundamentals) (21/32)
-* [Number Theory](#number-theory) (1/76)
+* [Number Theory](#number-theory) (2/76)
 * [Combinatorics](#combinatorics) (0/57)
 * [Algebra](#algebra) (1/43)
 * [Geometry](#geometry) (3/30)
@@ -759,7 +759,7 @@ Mathematics
 ### Number Theory
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Constructing a Number](https://www.hackerrank.com/challenges/constructing-a-number) | WIP
+1 | [Constructing a Number](https://www.hackerrank.com/challenges/constructing-a-number) | [Solution & Comment](solution/practice/mathematics/number-theory/constructing-a-number/solution.py)
 2 | [Closest Number](https://www.hackerrank.com/challenges/closest-number) | [Solution & Comment](solution/practice/mathematics/number-theory/closest-number/solution.py)
 3 | [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd) | WIP
 4 | [Primitive Problem](https://www.hackerrank.com/challenges/primitive-problem) | WIP
