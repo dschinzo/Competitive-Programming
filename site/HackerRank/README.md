@@ -9,7 +9,7 @@ Index
 ======
 
 * [Algorithms](#algorithms) (51/442)
-* [Data Structures](#data-structures) (9/121)
+* [Data Structures](#data-structures) (14/121)
 * [Mathematics](#mathematics) (45/283)
 * [Artificial Intelligence](#artificial-intelligence) (2/150)
 
@@ -533,7 +533,7 @@ Data Structures
 ------
 
 * [Arrays](#arrays) (6/6)
-* [Linked Lists](#linked-lists) (3/15)
+* [Linked Lists](#linked-lists) (8/15)
 * [Trees](#trees) (0/17)
 * [Balanced Trees](#balanced-trees) (0/3)
 * [Stacks](#stacks) (0/9)
@@ -560,11 +560,11 @@ Data Structures
 1 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | [Solution & Comment](solution/practice/data-structures/linked-lists/print-the-elements-of-a-linked-list/solution.py)
 2 | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) | [Solution & Comment](solution/practice/data-structures/linked-lists/insert-a-node-at-the-tail-of-a-linked-list/solution.py)
 3 | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) | [Solution & Comment](solution/practice/data-structures/linked-lists/insert-a-node-at-the-head-of-a-linked-list/solution.py)
-4 | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) | WIP
-5 | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) | WIP
-6 | [Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse) | WIP
-7 | [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list) | WIP
-8 | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists) | WIP
+4 | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) | [Solution & Comment](solution/practice/data-structures/linked-lists/insert-a-node-at-a-specific-position-in-a-linked-list/solution.py)
+5 | [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list) | [Solution & Comment](solution/practice/data-structures/linked-lists/delete-a-node-from-a-linked-list/solution.py)
+6 | [Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse) | [Solution & Comment](solution/practice/data-structures/linked-lists/print-the-elements-of-a-linked-list-in-reverse/solution.py)
+7 | [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list) | [Solution & Comment](solution/practice/data-structures/linked-lists/reverse-a-linked-list/solution.py)
+8 | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists) | [Solution & Comment](solution/practice/data-structures/linked-lists/compare-two-linked-lists/solution.py)
 9 | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists) | WIP
 10 | [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail) | WIP
 11 | [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) | WIP
