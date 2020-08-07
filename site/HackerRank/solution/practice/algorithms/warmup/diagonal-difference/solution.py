@@ -9,15 +9,10 @@ import sys
 # Complete the diagonalDifference function below.
 def diagonalDifference(arr):
     n = len(arr)
-    s1, s2 = 0, 0
-    for i in range(n):
-        for j in range(n):
-            if i == j:
-                s1 += arr[i][j]
-            if i == n - j - 1:
-                s2 += arr[i][j]
-    return abs(s1 - s2)
-                
+    s = 0
+    for i in range(n//2):
+        s += arr[i][i] + arr[n-i-1][n-i-1] - arr[i][n-i-1]-arr[n-i-1][i]
+    return abs(s)
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
