@@ -12,7 +12,7 @@ Index
 * [Data Structures](#data-structures) (14/121)
 * [Mathematics](#mathematics) (45/283)
 * [Artificial Intelligence](#artificial-intelligence) (2/150)
-* [Python](#python) (0/115)
+* [Python](#python) (7/115)
 
 Algorithms
 ------
@@ -1234,7 +1234,7 @@ Artificial Intelligence
 Python
 ------
 
-* [Introduction](#introduction) (0/7)
+* [Introduction](#introduction) (7/7)
 * [Basic Data Types](#basic-data-types) (0/6)
 * [Strings](#strings) (0/14)
 * [Sets](#sets) (0/13)
@@ -1255,13 +1255,13 @@ Python
 ### Introduction
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world) | WIP
-2 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | WIP
-3 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | WIP
-4 | [Python: Division](https://www.hackerrank.com/challenges/python-division) | WIP
-5 | [Loops](https://www.hackerrank.com/challenges/python-loops) | WIP
-6 | [Write a function](https://www.hackerrank.com/challenges/write-a-function) | WIP
-7 | [Print Function](https://www.hackerrank.com/challenges/python-print) | WIP
+1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world) | [Solution & Comment](solution/practice/python/py-introduction/py-hello-world/solution.py)
+2 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | [Solution & Comment](solution/practice/python/py-introduction/py-if-else/solution.py)
+3 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution & Comment](solution/practice/python/py-introduction/python-arithmetic-operators/solution.py)
+4 | [Python: Division](https://www.hackerrank.com/challenges/python-division) | [Solution & Comment](solution/practice/python/py-introduction/python-division/solution.py)
+5 | [Loops](https://www.hackerrank.com/challenges/python-loops) | [Solution & Comment](solution/practice/python/py-introduction/python-loops/solution.py)
+6 | [Write a function](https://www.hackerrank.com/challenges/write-a-function) | [Solution & Comment](solution/practice/python/py-introduction/write-a-function/solution.py)
+7 | [Print Function](https://www.hackerrank.com/challenges/python-print) | [Solution & Comment](solution/practice/python/py-introduction/python-print/solution.py)
 
 ### Basic Data Types
 \# | Challenge | Solution
