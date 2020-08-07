@@ -4253,6 +4253,574 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Python",
+      "name": "python",
+      "chapters": [
+        {
+          "title": "Introduction",
+          "name": "py-introduction",
+          "challenges": [
+            {
+              "title": "Say \"Hello, World!\" With Python",
+              "name": "py-hello-world"
+            },
+            {
+              "title": "Python If-Else",
+              "name": "py-if-else"
+            },
+            {
+              "title": "Arithmetic Operators",
+              "name": "python-arithmetic-operators"
+            },
+            {
+              "title": "Python: Division",
+              "name": "python-division"
+            },
+            {
+              "title": "Loops",
+              "name": "python-loops"
+            },
+            {
+              "title": "Write a function",
+              "name": "write-a-function"
+            },
+            {
+              "title": "Print Function",
+              "name": "python-print"
+            }
+          ]
+        },
+        {
+          "title": "Basic Data Types",
+          "name": "py-basic-data-types",
+          "challenges": [
+            {
+              "title": "Lists",
+              "name": "python-lists"
+            },
+            {
+              "title": "Tuples ",
+              "name": "python-tuples"
+            },
+            {
+              "title": "List Comprehensions",
+              "name": "list-comprehensions"
+            },
+            {
+              "title": "Find the Runner-Up Score!  ",
+              "name": "find-second-maximum-number-in-a-list"
+            },
+            {
+              "title": "Nested Lists",
+              "name": "nested-list"
+            },
+            {
+              "title": "Finding the percentage",
+              "name": "finding-the-percentage"
+            }
+          ]
+        },
+        {
+          "title": "Strings",
+          "name": "py-strings",
+          "challenges": [
+            {
+              "title": "sWAP cASE",
+              "name": "swap-case"
+            },
+            {
+              "title": "String Split and Join",
+              "name": "python-string-split-and-join"
+            },
+            {
+              "title": "What's Your Name?",
+              "name": "whats-your-name"
+            },
+            {
+              "title": "Mutations",
+              "name": "python-mutations"
+            },
+            {
+              "title": "Find a string",
+              "name": "find-a-string"
+            },
+            {
+              "title": "String Validators",
+              "name": "string-validators"
+            },
+            {
+              "title": "Text Alignment",
+              "name": "text-alignment"
+            },
+            {
+              "title": "Text Wrap",
+              "name": "text-wrap"
+            },
+            {
+              "title": "Designer Door Mat",
+              "name": "designer-door-mat"
+            },
+            {
+              "title": "String Formatting",
+              "name": "python-string-formatting"
+            },
+            {
+              "title": "Alphabet Rangoli",
+              "name": "alphabet-rangoli"
+            },
+            {
+              "title": "Capitalize!",
+              "name": "capitalize"
+            },
+            {
+              "title": "The Minion Game",
+              "name": "the-minion-game"
+            },
+            {
+              "title": "Merge the Tools!",
+              "name": "merge-the-tools"
+            }
+          ]
+        },
+        {
+          "title": "Sets",
+          "name": "py-sets",
+          "challenges": [
+            {
+              "title": "Introduction to Sets",
+              "name": "py-introduction-to-sets"
+            },
+            {
+              "title": "Symmetric Difference",
+              "name": "symmetric-difference"
+            },
+            {
+              "title": "No Idea!",
+              "name": "no-idea"
+            },
+            {
+              "title": "Set .add() ",
+              "name": "py-set-add"
+            },
+            {
+              "title": "Set .discard(), .remove() & .pop()",
+              "name": "py-set-discard-remove-pop"
+            },
+            {
+              "title": "Set .union() Operation",
+              "name": "py-set-union"
+            },
+            {
+              "title": "Set .intersection() Operation",
+              "name": "py-set-intersection-operation"
+            },
+            {
+              "title": "Set .difference() Operation",
+              "name": "py-set-difference-operation"
+            },
+            {
+              "title": "Set .symmetric_difference() Operation",
+              "name": "py-set-symmetric-difference-operation"
+            },
+            {
+              "title": "Set Mutations",
+              "name": "py-set-mutations"
+            },
+            {
+              "title": "The Captain's Room ",
+              "name": "py-the-captains-room"
+            },
+            {
+              "title": "Check Subset",
+              "name": "py-check-subset"
+            },
+            {
+              "title": "Check Strict Superset",
+              "name": "py-check-strict-superset"
+            }
+          ]
+        },
+        {
+          "title": "Math",
+          "name": "py-math",
+          "challenges": [
+            {
+              "title": "Polar Coordinates",
+              "name": "polar-coordinates"
+            },
+            {
+              "title": "Find Angle MBC",
+              "name": "find-angle"
+            },
+            {
+              "title": "Triangle Quest 2",
+              "name": "triangle-quest-2"
+            },
+            {
+              "title": "Mod Divmod",
+              "name": "python-mod-divmod"
+            },
+            {
+              "title": "Power - Mod Power",
+              "name": "python-power-mod-power"
+            },
+            {
+              "title": "Integers Come In All Sizes",
+              "name": "python-integers-come-in-all-sizes"
+            },
+            {
+              "title": "Triangle Quest",
+              "name": "python-quest-1"
+            }
+          ]
+        },
+        {
+          "title": "Itertools",
+          "name": "py-itertools",
+          "challenges": [
+            {
+              "title": "itertools.product()",
+              "name": "itertools-product"
+            },
+            {
+              "title": "itertools.permutations()",
+              "name": "itertools-permutations"
+            },
+            {
+              "title": "itertools.combinations()",
+              "name": "itertools-combinations"
+            },
+            {
+              "title": "itertools.combinations_with_replacement()",
+              "name": "itertools-combinations-with-replacement"
+            },
+            {
+              "title": "Compress the String! ",
+              "name": "compress-the-string"
+            },
+            {
+              "title": "Iterables and Iterators",
+              "name": "iterables-and-iterators"
+            },
+            {
+              "title": "Maximize It!",
+              "name": "maximize-it"
+            }
+          ]
+        },
+        {
+          "title": "Collections",
+          "name": "py-collections",
+          "challenges": [
+            {
+              "title": "collections.Counter()",
+              "name": "collections-counter"
+            },
+            {
+              "title": "DefaultDict Tutorial",
+              "name": "defaultdict-tutorial"
+            },
+            {
+              "title": "Collections.namedtuple()",
+              "name": "py-collections-namedtuple"
+            },
+            {
+              "title": "Collections.OrderedDict()",
+              "name": "py-collections-ordereddict"
+            },
+            {
+              "title": "Word Order",
+              "name": "word-order"
+            },
+            {
+              "title": "Collections.deque()",
+              "name": "py-collections-deque"
+            },
+            {
+              "title": "Piling Up!",
+              "name": "piling-up"
+            },
+            {
+              "title": "Company Logo",
+              "name": "most-commons"
+            }
+          ]
+        },
+        {
+          "title": "Date and Time",
+          "name": "py-date-time",
+          "challenges": [
+            {
+              "title": "Calendar Module",
+              "name": "calendar-module"
+            },
+            {
+              "title": "Time Delta",
+              "name": "python-time-delta"
+            }
+          ]
+        },
+        {
+          "title": "Errors and Exceptions",
+          "name": "errors-exceptions",
+          "challenges": [
+            {
+              "title": "Exceptions",
+              "name": "exceptions"
+            },
+            {
+              "title": "Incorrect Regex",
+              "name": "incorrect-regex"
+            }
+          ]
+        },
+        {
+          "title": "Classes",
+          "name": "py-classes",
+          "challenges": [
+            {
+              "title": "Classes: Dealing with Complex Numbers",
+              "name": "class-1-dealing-with-complex-numbers"
+            },
+            {
+              "title": "Class 2 - Find the Torsional Angle",
+              "name": "class-2-find-the-torsional-angle"
+            }
+          ]
+        },
+        {
+          "title": "Built-Ins",
+          "name": "py-built-ins",
+          "challenges": [
+            {
+              "title": "Zipped!",
+              "name": "zipped"
+            },
+            {
+              "title": "Input()",
+              "name": "input"
+            },
+            {
+              "title": "Python Evaluation",
+              "name": "python-eval"
+            },
+            {
+              "title": "Athlete Sort",
+              "name": "python-sort-sort"
+            },
+            {
+              "title": "Any or All",
+              "name": "any-or-all"
+            },
+            {
+              "title": "ginortS",
+              "name": "ginorts"
+            }
+          ]
+        },
+        {
+          "title": "Python Functionals",
+          "name": "py-functionals",
+          "challenges": [
+            {
+              "title": "Map and Lambda Function",
+              "name": "map-and-lambda-expression"
+            },
+            {
+              "title": "Validating Email Addresses With a Filter ",
+              "name": "validate-list-of-email-address-with-filter"
+            },
+            {
+              "title": "Reduce Function",
+              "name": "reduce-function"
+            }
+          ]
+        },
+        {
+          "title": "Regex and Parsing",
+          "name": "py-regex",
+          "challenges": [
+            {
+              "title": "Detect Floating Point Number",
+              "name": "introduction-to-regex"
+            },
+            {
+              "title": "Re.split()",
+              "name": "re-split"
+            },
+            {
+              "title": "Group(), Groups() & Groupdict()",
+              "name": "re-group-groups"
+            },
+            {
+              "title": "Re.findall() & Re.finditer()",
+              "name": "re-findall-re-finditer"
+            },
+            {
+              "title": "Re.start() & Re.end()",
+              "name": "re-start-re-end"
+            },
+            {
+              "title": "Regex Substitution",
+              "name": "re-sub-regex-substitution"
+            },
+            {
+              "title": "Validating Roman Numerals",
+              "name": "validate-a-roman-number"
+            },
+            {
+              "title": "Validating phone numbers",
+              "name": "validating-the-phone-number"
+            },
+            {
+              "title": "Validating and Parsing Email Addresses",
+              "name": "validating-named-email-addresses"
+            },
+            {
+              "title": "Hex Color Code",
+              "name": "hex-color-code"
+            },
+            {
+              "title": "HTML Parser - Part 1",
+              "name": "html-parser-part-1"
+            },
+            {
+              "title": "HTML Parser - Part 2",
+              "name": "html-parser-part-2"
+            },
+            {
+              "title": "Detect HTML Tags, Attributes and Attribute Values",
+              "name": "detect-html-tags-attributes-and-attribute-values"
+            },
+            {
+              "title": "Validating UID ",
+              "name": "validating-uid"
+            },
+            {
+              "title": "Validating Credit Card Numbers",
+              "name": "validating-credit-card-number"
+            },
+            {
+              "title": "Validating Postal Codes",
+              "name": "validating-postalcode"
+            },
+            {
+              "title": "Matrix Script",
+              "name": "matrix-script"
+            }
+          ]
+        },
+        {
+          "title": "XML",
+          "name": "xml",
+          "challenges": [
+            {
+              "title": "XML 1 - Find the Score",
+              "name": "xml-1-find-the-score"
+            },
+            {
+              "title": "XML2 - Find the Maximum Depth",
+              "name": "xml2-find-the-maximum-depth"
+            }
+          ]
+        },
+        {
+          "title": "Closures and Decorators",
+          "name": "closures-and-decorators",
+          "challenges": [
+            {
+              "title": "Standardize Mobile Number Using Decorators",
+              "name": "standardize-mobile-number-using-decorators"
+            },
+            {
+              "title": "Decorators 2 - Name Directory",
+              "name": "decorators-2-name-directory"
+            }
+          ]
+        },
+        {
+          "title": "Numpy",
+          "name": "numpy",
+          "challenges": [
+            {
+              "title": "Arrays",
+              "name": "np-arrays"
+            },
+            {
+              "title": "Shape and Reshape",
+              "name": "np-shape-reshape"
+            },
+            {
+              "title": "Transpose and Flatten",
+              "name": "np-transpose-and-flatten"
+            },
+            {
+              "title": "Concatenate",
+              "name": "np-concatenate"
+            },
+            {
+              "title": "Zeros and Ones",
+              "name": "np-zeros-and-ones"
+            },
+            {
+              "title": "Eye and Identity",
+              "name": "np-eye-and-identity"
+            },
+            {
+              "title": "Array Mathematics",
+              "name": "np-array-mathematics"
+            },
+            {
+              "title": "Floor, Ceil and Rint",
+              "name": "floor-ceil-and-rint"
+            },
+            {
+              "title": "Sum and Prod",
+              "name": "np-sum-and-prod"
+            },
+            {
+              "title": "Min and Max",
+              "name": "np-min-and-max"
+            },
+            {
+              "title": "Mean, Var, and Std",
+              "name": "np-mean-var-and-std"
+            },
+            {
+              "title": "Dot and Cross",
+              "name": "np-dot-and-cross"
+            },
+            {
+              "title": "Inner and Outer",
+              "name": "np-inner-and-outer"
+            },
+            {
+              "title": "Polynomials",
+              "name": "np-polynomials"
+            },
+            {
+              "title": "Linear Algebra",
+              "name": "np-linear-algebra"
+            }
+          ]
+        },
+        {
+          "title": "Debugging",
+          "name": "py-debugging",
+          "challenges": [
+            {
+              "title": "Words Score",
+              "name": "words-score"
+            },
+            {
+              "title": "Default Arguments",
+              "name": "default-arguments"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

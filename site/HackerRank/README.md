@@ -8,16 +8,17 @@ Here is my [hackerrank profile](https://www.hackerrank.com/dschinzo).
 Index
 ======
 
-* [Algorithms](#algorithms) (51/442)
+* [Algorithms](#algorithms) (52/442)
 * [Data Structures](#data-structures) (14/121)
 * [Mathematics](#mathematics) (45/283)
 * [Artificial Intelligence](#artificial-intelligence) (2/150)
+* [Python](#python) (0/115)
 
 Algorithms
 ------
 
 * [Warmup](#warmup) (10/10)
-* [Implementation](#implementation) (31/66)
+* [Implementation](#implementation) (32/66)
 * [Strings](#strings) (5/48)
 * [Sorting](#sorting) (2/15)
 * [Search](#search) (2/26)
@@ -75,7 +76,7 @@ Algorithms
 25 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner) | WIP
 26 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) | [Solution & Comment](solution/practice/algorithms/implementation/circular-array-rotation/solution.py)
 27 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) | [Solution & Comment](solution/practice/algorithms/implementation/permutation-equation/solution.py)
-28 | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | WIP
+28 | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | [Solution & Comment](solution/practice/algorithms/implementation/jumping-on-the-clouds-revisited/solution.py)
 29 | [Find Digits](https://www.hackerrank.com/challenges/find-digits) | [Solution & Comment](solution/practice/algorithms/implementation/find-digits/solution.py)
 30 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | [Solution & Comment](solution/practice/algorithms/implementation/extra-long-factorials/solution.py)
 31 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | WIP
@@ -1229,4 +1230,208 @@ Artificial Intelligence
 27 | [Standard Deviation Puzzles - 4](https://www.hackerrank.com/challenges/standard-deviation-puzzles-4) | WIP
 28 | [Standard Deviation Puzzles - 5](https://www.hackerrank.com/challenges/standard-deviation-puzzles-5) | WIP
 29 | [Standard Deviation Puzzles - 6](https://www.hackerrank.com/challenges/standard-deviation-puzzles-6) | WIP
+
+Python
+------
+
+* [Introduction](#introduction) (0/7)
+* [Basic Data Types](#basic-data-types) (0/6)
+* [Strings](#strings) (0/14)
+* [Sets](#sets) (0/13)
+* [Math](#math) (0/7)
+* [Itertools](#itertools) (0/7)
+* [Collections](#collections) (0/8)
+* [Date and Time](#date-and-time) (0/2)
+* [Errors and Exceptions](#errors-and-exceptions) (0/2)
+* [Classes](#classes) (0/2)
+* [Built-Ins](#built-ins) (0/6)
+* [Python Functionals](#python-functionals) (0/3)
+* [Regex and Parsing](#regex-and-parsing) (0/17)
+* [XML](#xml) (0/2)
+* [Closures and Decorators](#closures-and-decorators) (0/2)
+* [Numpy](#numpy) (0/15)
+* [Debugging](#debugging) (0/2)
+
+### Introduction
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world) | WIP
+2 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | WIP
+3 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | WIP
+4 | [Python: Division](https://www.hackerrank.com/challenges/python-division) | WIP
+5 | [Loops](https://www.hackerrank.com/challenges/python-loops) | WIP
+6 | [Write a function](https://www.hackerrank.com/challenges/write-a-function) | WIP
+7 | [Print Function](https://www.hackerrank.com/challenges/python-print) | WIP
+
+### Basic Data Types
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Lists](https://www.hackerrank.com/challenges/python-lists) | WIP
+2 | [Tuples ](https://www.hackerrank.com/challenges/python-tuples) | WIP
+3 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | WIP
+4 | [Find the Runner-Up Score!  ](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | WIP
+5 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | WIP
+6 | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | WIP
+
+### Strings
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | WIP
+2 | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | WIP
+3 | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name) | WIP
+4 | [Mutations](https://www.hackerrank.com/challenges/python-mutations) | WIP
+5 | [Find a string](https://www.hackerrank.com/challenges/find-a-string) | WIP
+6 | [String Validators](https://www.hackerrank.com/challenges/string-validators) | WIP
+7 | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment) | WIP
+8 | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) | WIP
+9 | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | WIP
+10 | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | WIP
+11 | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | WIP
+12 | [Capitalize!](https://www.hackerrank.com/challenges/capitalize) | WIP
+13 | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | WIP
+14 | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools) | WIP
+
+### Sets
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | WIP
+2 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference) | WIP
+3 | [No Idea!](https://www.hackerrank.com/challenges/no-idea) | WIP
+4 | [Set .add() ](https://www.hackerrank.com/challenges/py-set-add) | WIP
+5 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | WIP
+6 | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union) | WIP
+7 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation) | WIP
+8 | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation) | WIP
+9 | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation) | WIP
+10 | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations) | WIP
+11 | [The Captain's Room ](https://www.hackerrank.com/challenges/py-the-captains-room) | WIP
+12 | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset) | WIP
+13 | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset) | WIP
+
+### Math
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates) | WIP
+2 | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle) | WIP
+3 | [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2) | WIP
+4 | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod) | WIP
+5 | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power) | WIP
+6 | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes) | WIP
+7 | [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1) | WIP
+
+### Itertools
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product) | WIP
+2 | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations) | WIP
+3 | [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations) | WIP
+4 | [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement) | WIP
+5 | [Compress the String! ](https://www.hackerrank.com/challenges/compress-the-string) | WIP
+6 | [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators) | WIP
+7 | [Maximize It!](https://www.hackerrank.com/challenges/maximize-it) | WIP
+
+### Collections
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter) | WIP
+2 | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial) | WIP
+3 | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple) | WIP
+4 | [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict) | WIP
+5 | [Word Order](https://www.hackerrank.com/challenges/word-order) | WIP
+6 | [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque) | WIP
+7 | [Piling Up!](https://www.hackerrank.com/challenges/piling-up) | WIP
+8 | [Company Logo](https://www.hackerrank.com/challenges/most-commons) | WIP
+
+### Date and Time
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module) | WIP
+2 | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta) | WIP
+
+### Errors and Exceptions
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Exceptions](https://www.hackerrank.com/challenges/exceptions) | WIP
+2 | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex) | WIP
+
+### Classes
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers) | WIP
+2 | [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle) | WIP
+
+### Built-Ins
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Zipped!](https://www.hackerrank.com/challenges/zipped) | WIP
+2 | [Input()](https://www.hackerrank.com/challenges/input) | WIP
+3 | [Python Evaluation](https://www.hackerrank.com/challenges/python-eval) | WIP
+4 | [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort) | WIP
+5 | [Any or All](https://www.hackerrank.com/challenges/any-or-all) | WIP
+6 | [ginortS](https://www.hackerrank.com/challenges/ginorts) | WIP
+
+### Python Functionals
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression) | WIP
+2 | [Validating Email Addresses With a Filter ](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter) | WIP
+3 | [Reduce Function](https://www.hackerrank.com/challenges/reduce-function) | WIP
+
+### Regex and Parsing
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex) | WIP
+2 | [Re.split()](https://www.hackerrank.com/challenges/re-split) | WIP
+3 | [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups) | WIP
+4 | [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer) | WIP
+5 | [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end) | WIP
+6 | [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution) | WIP
+7 | [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number) | WIP
+8 | [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number) | WIP
+9 | [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses) | WIP
+10 | [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code) | WIP
+11 | [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1) | WIP
+12 | [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2) | WIP
+13 | [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values) | WIP
+14 | [Validating UID ](https://www.hackerrank.com/challenges/validating-uid) | WIP
+15 | [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number) | WIP
+16 | [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode) | WIP
+17 | [Matrix Script](https://www.hackerrank.com/challenges/matrix-script) | WIP
+
+### XML
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [XML 1 - Find the Score](https://www.hackerrank.com/challenges/xml-1-find-the-score) | WIP
+2 | [XML2 - Find the Maximum Depth](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth) | WIP
+
+### Closures and Decorators
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Standardize Mobile Number Using Decorators](https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators) | WIP
+2 | [Decorators 2 - Name Directory](https://www.hackerrank.com/challenges/decorators-2-name-directory) | WIP
+
+### Numpy
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Arrays](https://www.hackerrank.com/challenges/np-arrays) | WIP
+2 | [Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape) | WIP
+3 | [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten) | WIP
+4 | [Concatenate](https://www.hackerrank.com/challenges/np-concatenate) | WIP
+5 | [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones) | WIP
+6 | [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity) | WIP
+7 | [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics) | WIP
+8 | [Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint) | WIP
+9 | [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod) | WIP
+10 | [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max) | WIP
+11 | [Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std) | WIP
+12 | [Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross) | WIP
+13 | [Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | WIP
+14 | [Polynomials](https://www.hackerrank.com/challenges/np-polynomials) | WIP
+15 | [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra) | WIP
+
+### Debugging
+\# | Challenge | Solution
+:---:|:---:|:---:
+1 | [Words Score](https://www.hackerrank.com/challenges/words-score) | WIP
+2 | [Default Arguments](https://www.hackerrank.com/challenges/default-arguments) | WIP
 

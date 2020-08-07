@@ -24,7 +24,8 @@ class HackerSpider(scrapy.Spider):
       { 'title': 'Algorithms', 'name': 'algorithms' },
       { 'title': 'Data Structures', 'name': 'data-structures' },
       { 'title': 'Mathematics', 'name': 'mathematics' },
-      { 'title': 'Artificial Intelligence', 'name': 'ai' }
+      { 'title': 'Artificial Intelligence', 'name': 'ai' },
+      { 'title': 'Python', 'name': 'python' }
       ]
     for i, track in enumerate(tracks_list):
       tracks.append({
