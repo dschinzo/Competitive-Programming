@@ -12,7 +12,7 @@ Index
 * [Data Structures](#data-structures) (14/121)
 * [Mathematics](#mathematics) (45/283)
 * [Artificial Intelligence](#artificial-intelligence) (2/150)
-* [Python](#python) (7/115)
+* [Python](#python) (13/115)
 
 Algorithms
 ------
@@ -1235,7 +1235,7 @@ Python
 ------
 
 * [Introduction](#introduction) (7/7)
-* [Basic Data Types](#basic-data-types) (0/6)
+* [Basic Data Types](#basic-data-types) (6/6)
 * [Strings](#strings) (0/14)
 * [Sets](#sets) (0/13)
 * [Math](#math) (0/7)
@@ -1266,12 +1266,12 @@ Python
 ### Basic Data Types
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Lists](https://www.hackerrank.com/challenges/python-lists) | WIP
-2 | [Tuples ](https://www.hackerrank.com/challenges/python-tuples) | WIP
-3 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | WIP
-4 | [Find the Runner-Up Score!  ](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | WIP
-5 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | WIP
-6 | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | WIP
+1 | [Lists](https://www.hackerrank.com/challenges/python-lists) | [Solution & Comment](solution/practice/python/py-basic-data-types/python-lists/solution.py)
+2 | [Tuples ](https://www.hackerrank.com/challenges/python-tuples) | [Solution & Comment](solution/practice/python/py-basic-data-types/python-tuples/solution.py)
+3 | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | [Solution & Comment](solution/practice/python/py-basic-data-types/list-comprehensions/solution.py)
+4 | [Find the Runner-Up Score!  ](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution & Comment](solution/practice/python/py-basic-data-types/find-second-maximum-number-in-a-list/solution.py)
+5 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution & Comment](solution/practice/python/py-basic-data-types/nested-list/solution.py)
+6 | [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution & Comment](solution/practice/python/py-basic-data-types/finding-the-percentage/solution.py)
 
 ### Strings
 \# | Challenge | Solution
