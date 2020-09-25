@@ -8,7 +8,7 @@ Here is my [hackerrank profile](https://www.hackerrank.com/dschinzo).
 Index
 ======
 
-* [Algorithms](#algorithms) (52/442)
+* [Algorithms](#algorithms) (53/442)
 * [Data Structures](#data-structures) (14/121)
 * [Mathematics](#mathematics) (45/283)
 * [Artificial Intelligence](#artificial-intelligence) (2/150)
@@ -18,7 +18,7 @@ Algorithms
 ------
 
 * [Warmup](#warmup) (10/10)
-* [Implementation](#implementation) (32/66)
+* [Implementation](#implementation) (33/66)
 * [Strings](#strings) (5/48)
 * [Sorting](#sorting) (2/15)
 * [Search](#search) (2/26)
@@ -66,7 +66,7 @@ Algorithms
 15 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | [Solution & Comment](solution/practice/algorithms/implementation/cats-and-a-mouse/solution.py)
 16 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming) | WIP
 17 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | [Solution & Comment](solution/practice/algorithms/implementation/picking-numbers/solution.py)
-18 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | WIP
+18 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | [Solution & Comment](solution/practice/algorithms/implementation/climbing-the-leaderboard/solution.py)
 19 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution & Comment](solution/practice/algorithms/implementation/the-hurdle-race/solution.py)
 20 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution & Comment](solution/practice/algorithms/implementation/designer-pdf-viewer/solution.py)
 21 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | [Solution & Comment](solution/practice/algorithms/implementation/utopian-tree/solution.py)
