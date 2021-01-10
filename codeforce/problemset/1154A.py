@@ -1,4 +1,4 @@
 # 1154A
 arr = list(map(int, input().split()))
-
-print(sum(arr), sum(arr) // 3)
+arr.sort()
+print(" ".join([str(arr[-1] - el) for el in arr[:-1]]))
