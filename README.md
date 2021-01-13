@@ -4,14 +4,16 @@ This repository includes the accepted solutions of coding challenge problems wri
 
 # Index
 
-- [Hackerrank solutions](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/site/HackerRank)
-- [Codechef solutions](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/site/Codechef)
-- [Leetcode solutions](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/site/Leetcode)
+- [Codechef solutions](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/Codechef)
+- [Leetcode solutions](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/Leetcode)
+- [Hackerrank solutions](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/HackerRank)
+- [Codeforces solutions](https://github.com/dschinzo/Algorithms-and-Data-structures/tree/master/Leetcode)
 
 All these solutions written in python language.
 
 # My competitive programming profile pages
 
-- [Hackerrank profile](https://www.hackerrank.com/dschinzo)
 - [Codechef profile](https://www.codechef.com/users/chinzorigt)
 - [Leetcode profile](https://leetcode.com/dschinzo)
+- [Hackerrank profile](https://www.hackerrank.com/dschinzo)
+- [Codeforces profile](https://codeforces.com/profile/chinzorigt)
